@@ -1,3 +1,4 @@
+
 # ViteFusion Boilerplate
 
 Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to supercharge your React development experience. Developed by Abdelali Kabou, ViteFusion combines some of the best modern web development tools into a cohesive development experience.
@@ -6,6 +7,7 @@ Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to superc
 
 - **Vite**: Enjoy a lightning-fast frontend build tool optimized for speed and simplicity.
 - **React**: Build scalable and component-based UIs.
+- **React Router Dom**: Route management made easy and intuitive.
 - **Chakra-UI**: Design accessible and elegant UI components with ease.
 - **React Hook Form**: Efficiently manage your forms and validations.
 - **React Query**: Synchronize and fetch your data seamlessly.
@@ -53,6 +55,7 @@ Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to superc
 ├── stores
 ├── tests
 ├── utils
+├── routes.tsx
 ├── App.tsx
 ├── main.tsx
 ├── theme.ts
@@ -67,6 +70,7 @@ Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to superc
 - `modules`: Group functionality and components by feature or domain.
 - `pages`: Define your main page components, corresponding to routes.
 - `stores`: Manage your app state using Zustand.
+- `routes.tsx`: Define your application's routing structure and components.
 - `tests`: Store your test files, setups, and configurations.
 - `utils`: Utility functions and common helpers.
 - `App.tsx`: Your main App component.
