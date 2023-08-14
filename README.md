@@ -77,7 +77,7 @@ Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to superc
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#). Pull requests are always welcome.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/abdoKa/ViteFusion/issues). Pull requests are always welcome.
 
 ## 📝 License
 
