@@ -5,8 +5,9 @@ function App() {
   const { t } = useTranslation();
   return (
     <Box>
-      <Center h="100vh">
-        <Text>{t("startCoding")}</Text>
+      <Center h="100vh" flexDirection="column">
+        <Text mb={4}>{t("startCoding")}</Text>
+        <Text fontSize="sm" color="gray.600">Developed by Abdelali Kabou</Text>
       </Center>
     </Box>
   );
