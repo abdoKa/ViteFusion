@@ -1,12 +1,10 @@
-import React from 'react'
-import { Text } from '@chakra-ui/react'
+import React from "react";
+import { Text } from "@chakra-ui/react";
 
 type Props = {
-  greeting: string
-}
+  greeting: string;
+};
 
-export default function SayHello({greeting}: Props) {
-  return (
-    <Text>{greeting}</Text>
-  )
+export default function SayHello({ greeting }: Props) {
+  return <Text>{greeting}</Text>;
 }

@@ -1,8 +1,8 @@
 import { Box, Center, Text } from "@chakra-ui/react";
 import { useTranslation } from "react-i18next";
-import SayHello from "./components/SayHello";
+import SayHello from "../../components/SayHello";
 
-function App() {
+function HomePage() {
   const { t } = useTranslation();
   return (
     <Box>
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default HomePage;
