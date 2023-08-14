@@ -1,4 +1,3 @@
-
 # ViteFusion Boilerplate
 
 Welcome to **ViteFusion**! This is a cutting-edge boilerplate designed to supercharge your React development experience. Developed by Abdelali Kabou, ViteFusion combines some of the best modern web development tools into a cohesive development experience.
