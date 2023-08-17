@@ -1,6 +1,6 @@
 import { Box, Center, Text } from "@chakra-ui/react";
 import { useTranslation } from "react-i18next";
-import SayHello from "../../components/SayHello";
+import SayHello from "@/components/SayHello";
 
 function HomePage() {
   const { t } = useTranslation();
