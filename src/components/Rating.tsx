@@ -1,6 +1,6 @@
 import React from "react";
 import { Button, Text, VStack } from "@chakra-ui/react";
-import useRatingStore from "../stores/store";
+import useRatingStore from "@/stores/store";
 
 const Rating: React.FC = () => {
   const rating = useRatingStore((state) => state.rating);

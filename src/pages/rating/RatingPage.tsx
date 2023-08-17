@@ -1,5 +1,5 @@
 import { Box, Center } from "@chakra-ui/react";
-import Rating from "../../components/Rating";
+import Rating from "@/components/Rating";
 
 function RatingPage() {
   return (
